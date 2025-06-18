@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: nunito-reg;
+    background: #fff;
+    color: #222;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
