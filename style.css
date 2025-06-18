@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: nunito;
     src: url(fonts/static/Nunito-Bold.ttf);
@@ -8,6 +9,7 @@
     src: url(fonts/static/Nunito-Medium.ttf);
 }
 
+
 body {
     margin: 0 auto;
     padding: 0;
@@ -17,6 +19,7 @@ body {
     width: 100%;
     box-sizing: border-box;
     overflow-x: hidden;
+
 }
 
 header {
